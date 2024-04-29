@@ -1,0 +1,28 @@
+# Visual Studio 設定和快取檔案
+*.vs
+AzurePlateRecognition/bin/
+AzurePlateRecognition/obj/
+*.user
+*.suo
+
+# NuGet 套件
+packages/
+
+# NUPKG 檔案
+*.nupkg
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+bld/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
